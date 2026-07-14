@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aamaich Abderrazak, a Fullstack Developer passionate about building apps that make life easier.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&width=435&lines=Hi%2C+I%E2%80%99m+Aamaich+Abderrazak%2C+a+Fullstack+Developer;passionate+about+building+apps+that+make+life+easier.)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
